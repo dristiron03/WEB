@@ -1,2 +1,2 @@
 # WEB
-web dev beginning
+web development beginning
